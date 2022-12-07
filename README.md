@@ -1,9 +1,5 @@
-# csb-oc6uch
-Restaurant Page with filter using Reactjs
-
-
-    # ⭐ React Project - Our Menu  ⭐
-    <br>
+ # ⭐ React Project - Our Menu  ⭐
+   <br>
   [Code Link](https://codesandbox.io/s/react-project-5-restaurant-oc6uch)
     <br>
 
